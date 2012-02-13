@@ -11,5 +11,5 @@ class test_class {
 # tell puppet on which client to run the class
 node default {
     include test_class
-}
+
 
